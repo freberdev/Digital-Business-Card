@@ -1,0 +1,189 @@
+html, body {
+    background-color: #23252C;
+    padding-top: 22px;
+}
+
+/* HeaderApp */
+
+.HeaderApp {
+    margin: auto;
+    align-contnet: float;
+    text-align: center;
+    width: 318px;
+    background-color: #1A1B21;
+    padding-bottom: 32px;
+}
+.HeaderApp img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+}
+.HeaderApp h1 {
+    color: white;
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 21px;
+    margin-bottom: 0px;
+}
+.HeaderApp p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #A0C7E4;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 6px;
+    margin-bottom: 3px;
+    
+}
+.HeaderApp a {
+    color: #F5F5F5;
+    text-decoration:none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.HeaderApp .button {
+    background-color: #D1D5DB;
+    width: 247px;
+    height: 34px;
+    border: 1px;
+    border-radius: 10px;
+    padding: 9px 13px 9px 11px;
+    color: #374151;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    text-decoration: #ffffff;
+    display: inline-block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+.button:hover {
+    background-color: #A0C7E4;
+    color: #F5F5F5;
+}
+.HeaderApp i {
+    padding-right: 0px;
+    align-content: center;
+    vertical-align: middle
+}
+.HeaderApp div {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+
+/* About & Interests */
+.About {
+    margin: auto;
+    align-contnet: float;
+    
+    width: 318px;
+    background-color: #1A1B21;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+}
+.About h2 {
+    color: #F5F5F5;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 35px;
+}
+
+.About p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: left;
+    color: #DCDCDC;
+    padding-top: 0px;
+    padding-bottom: 27px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+
+.Footer {
+    margin: auto;
+    align-contnet: float;      
+    width: 318px;
+    background-color: #161619;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 42px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  
+  color: #A0C7E4;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+
+/* Twitter */
+.fa-twitter {
+  color: #F5F5F5;
+}
+
+.fa-github {
+    color: #F5F5F5;
+
+}
+
+.fa-linkedin {
+    color: #F5F5F5;
+
+}
+
