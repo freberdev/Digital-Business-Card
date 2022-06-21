@@ -1,4 +1,4 @@
-import profilePic from "../images/fre.jpg";
+import profilePic from "../images/profilepicture.jpg";
 
 export function Header(props) {
 
